@@ -1,0 +1,102 @@
+body{
+	background: black;
+}
+.fondo{
+	position: absolute;
+	top: 20px;
+	left: 30px;
+	width: 1310px;
+	height: 610px;
+	background:blue;
+    
+}
+
+.titulo{
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	width: 500px;
+	height: 100px;
+	background: #E74C3C;
+}
+
+.parrafo1{
+	position: absolute;
+	top: 130px;
+	left:20px;
+	width: 500px;
+	height: 200px;
+	background:#E74C3C;
+}
+
+.foto1{
+	position: absolute;
+	top: 350px;
+	left: 20px;
+	width: 200px;
+	height: 200px;
+	background: #E74C3C;
+}
+
+.parrafo2{
+	position: absolute;
+	top: 350px;
+	left: 250px;
+	width: 270px;
+	height: 200px;
+	background: #E74C3C;
+}
+
+.parragrande{
+	position: absolute;
+	top: 20px;
+	left: 600px;
+	width: 680px;
+	height:310px;
+	background: #F1948A;
+}
+
+.parrafo3{
+	position: absolute;
+	top: 30px;
+	left: 610px;
+	width: 660px;
+	height: 120px;
+	background: #E74C3C;
+}
+
+.foto2{
+	position: absolute;
+	top: 170px;
+	left: 700px;
+	width: 200px;
+	height: 150px;
+	background: #E74C3C;
+}
+
+.foto3{
+	position: absolute;
+	top: 170px;
+	left: 1000px;
+	width: 200px;
+	height: 150px;
+	background: #E74C3C;
+}
+
+.parrafo4{
+	position: absolute;
+	top: 350px;
+	left: 600px;
+	width: 400px;
+	height: 200px;
+	background: #E74C3C;
+}
+
+.ultifoto{
+	position: absolute;
+	top: 350px;
+	left: 1030px;
+	width: 250px;
+	height: 200px;
+	background: #E74C3C;
+}
